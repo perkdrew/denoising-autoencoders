@@ -1,2 +1,3 @@
-# denoising-autoencoders
-Denoising images and documents with convolutional autoencoders
+# Denoising with Autoencoders
+
+I denoise images and documents with convolutional autoencoders. 
